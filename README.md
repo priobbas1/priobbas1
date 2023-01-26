@@ -1,3 +1,3 @@
 # priobbas1
 
-![Codewars](https://github.r2v.ch/codewars?user=priobbas1&stroke=blue)
+![Codewars](https://github.r2v.ch/codewars?user=priobbas1&theme=light)
